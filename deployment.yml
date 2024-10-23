@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: spring-boot-app
-        image: jmsajib11/full-ci-cd:55
+        image: jmsajib11/full-ci-cd:58
         ports:
         - containerPort: 8080
